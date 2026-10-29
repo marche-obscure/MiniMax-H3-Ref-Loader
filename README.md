@@ -1,5 +1,15 @@
 # MiniMax H3 Reference Loader
 
+> [!WARNING]
+> **Discontinued – moved to [MagicStudio](https://github.com/marche-obscure/MagicStudio).**
+>
+> This repository is no longer maintained and is archived. The nodes continue in **MagicStudio**: the same nodes,
+> plus LTX 2.3 / 2.5, model variants and the MagicStudio Container. Old workflows open there and are rewired
+> automatically.
+>
+> To switch: remove this folder from `ComfyUI/custom_nodes/` (both packages use the same node names), then install
+> MagicStudio.
+
 [![version](https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmarche-obscure%2FMiniMax-H3-Ref-Loader%2Fmain%2Fpyproject.toml&query=%24.project.version&label=version&color=097267)](pyproject.toml)
 [![Nodes 2.0](https://img.shields.io/badge/Nodes%202.0-compatible-43a047)](#compatibility)
 [![license](https://img.shields.io/badge/license-MIT-007ec6)](LICENSE)
